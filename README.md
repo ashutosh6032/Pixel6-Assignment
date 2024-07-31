@@ -12,3 +12,4 @@
 
 ![web view](https://github.com/user-attachments/assets/8dbbf9de-4edc-45f9-98ee-74d8d273638a)
 ![web view 2](https://github.com/user-attachments/assets/51d6c01a-17a5-41cb-b434-7b3d86a91fe7)
+![mobile view](https://github.com/user-attachments/assets/a40a1a1c-d5ae-40da-bc2b-2ce5f2ea1c56)
